@@ -1,0 +1,1 @@
+En este documento lo que voy ha hacer es instalar el active directory y crear un usuario en Windows server 2022 y en Windows 10 pro unir al dominio y iniciar sesión con el usuario creado en Windows server.
